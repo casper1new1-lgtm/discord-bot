@@ -18,7 +18,7 @@ STATUS_INTERVAL = 30
 BOTS_CONFIG = [
     {
         "name": "Bot 1",
-        "token": os.getenv("TOKEN_1"),
+        "token": os.getenv("TOKEN"),
         "statuses": [
             "🔥 VIP SERVER ADS",
             "⚔️ INQUIRE NOW!",
