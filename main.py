@@ -22,7 +22,7 @@ BOTS_CONFIG = [
         "statuses": [
             "🔥 VIP SERVER ADS",
             "⚔️ INQUIRE NOW!",
-            "🎮 L2 SERVER ONLINE",
+            "🎮 L2YOURSERVER.COM",
         ],
     },
     {
@@ -31,7 +31,7 @@ BOTS_CONFIG = [
         "statuses": [
             "🔥 VIP SERVER ADS",
             "⚔️ INQUIRE NOW!",
-            "🎮 L2 SERVER ONLINE",
+            "🎮 L2YOURSERVER.COM",
         ],
     },
 ]
