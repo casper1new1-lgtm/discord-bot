@@ -34,6 +34,15 @@ BOTS_CONFIG = [
             "🎮 L2YOURSERVER.COM",
         ],
     },
+     {
+        "name": "Bot 3",
+        "token": os.getenv("TOKEN_3"),
+        "statuses": [
+            "🔥 Beta! - May 09",
+            "⚔️ Live! - May 16",
+            "🎮 L2Harmony.com",
+        ],
+    },
 ]
 
 BOTS = [b for b in BOTS_CONFIG if b.get("token")]
