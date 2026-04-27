@@ -38,8 +38,8 @@ BOTS_CONFIG = [
         "name": "Bot 3",
         "token": os.getenv("TOKEN_3"),
         "statuses": [
-            "🔥 Beta! - May 09",
-            "⚔️ Live! - May 16",
+            "🔥 HighFive Full PVP",
+            "⚔️ Beta - May 09 | Live - May 16",
             "🎮 L2Harmony.com",
         ],
     },
