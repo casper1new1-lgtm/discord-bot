@@ -34,13 +34,13 @@ BOTS_CONFIG = [
             "🎮 L2YOURSERVER.COM",
         ],
     },
-     {
-        "name": "Bot 3",
-        "token": os.getenv("TOKEN_3"),
+    {
+        "name": "Bot 4",
+        "token": os.getenv("TOKEN_4"),
         "statuses": [
-            "🔥 HighFive Full PVP",
-            "⚔️ Beta - May 09 | Live - May 16",
-            "🎮 L2Harmony.com",
+            "🔥 HighFive x1000",
+            "⚔️ Beta - July 27 | Live - July 31",
+            "🎮 l2varka.com",
         ],
     },
 ]
